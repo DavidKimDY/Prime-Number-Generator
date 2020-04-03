@@ -1,3 +1,4 @@
+# This is Local
 # if Quotient is 0, then that number is not prime number
 class prime_number:
  def __init__(self,numberth):
