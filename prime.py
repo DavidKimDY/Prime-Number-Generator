@@ -58,7 +58,7 @@ class prime_number:
             numberth_counter+=1
             number+=1
         #print(number,"is prime number")
-     else: # this is not prime so move it on to next number.
+     else: # this is not prime so move it on to next number. !!
         number+=1
         #print(number,"is not prime number")
      if a > 1: # If you fine the prime number. then we have a=2 so be able to quit.
